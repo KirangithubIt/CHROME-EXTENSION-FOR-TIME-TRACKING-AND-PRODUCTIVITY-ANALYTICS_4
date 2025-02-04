@@ -16,5 +16,6 @@ A Chrome Extension for Time Tracking and Productivity Analytics is a browser ext
 A Cricket Match Chrome Extension is a browser extension designed to provide real-time updates, scores, and statistics for ongoing cricket matches. The extension can integrate seamlessly into the user's Chrome browser, offering quick access to live match details without needing to visit a separate website. It can be especially useful for cricket fans who want to stay up-to-date with matches while working or browsing.
 
 # OUTPUT OF TASK
+![Image](https://github.com/user-attachments/assets/d263dd22-ea8b-4de2-8b3f-fac26434c7c3)
 
 
